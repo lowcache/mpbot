@@ -1,0 +1,11 @@
+# Runtime artifacts created on her phone — never commit these
+logs/
+profile/
+storage.json
+flow.py
+termux-x11.apk
+config.json
+
+# Python bytecode
+__pycache__/
+*.pyc
